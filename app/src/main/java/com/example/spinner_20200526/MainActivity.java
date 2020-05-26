@@ -43,6 +43,5 @@ public class MainActivity extends BaseActivity {
         occupations.add(new Occupation("iOS", R.drawable.ios_icon));
         occupations.add(new Occupation("웹프론트", R.drawable.web));
         occupations.add(new Occupation("서버", R.drawable.server));
-
     }
 }
