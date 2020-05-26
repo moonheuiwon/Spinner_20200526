@@ -10,4 +10,15 @@
         <item>박사 졸업</item>
         <item>기타</item>
     </string-array>
+    <string-array name="habiys">
+        <item>음악 감상</item>
+        <item>영화 감상</item>
+        <item>등산</item>
+        <item>운동 하기</item>
+        <item>독서</item>
+        <item>그림 그리기</item>
+        <item>게임</item>
+        <item>악기 다루기</item>
+        <item>기타</item>
+    </string-array>
 </resources>
