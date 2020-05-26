@@ -40,9 +40,9 @@ public class MainActivity extends BaseActivity {
     }
     void addOccupations() {
         occupations.add(new Occupation("안드로이드", R.drawable.android_icon));
-        occupations.add(new Occupation("안드로이드", R.drawable.ios_icon));
-        occupations.add(new Occupation("안드로이드", R.drawable.web));
-        occupations.add(new Occupation("안드로이드", R.drawable.server));
+        occupations.add(new Occupation("iOS", R.drawable.ios_icon));
+        occupations.add(new Occupation("웹프론트", R.drawable.web));
+        occupations.add(new Occupation("서버", R.drawable.server));
 
     }
 }
